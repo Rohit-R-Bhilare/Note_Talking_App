@@ -1,4 +1,3 @@
-Description:
 Welcome to our Note Taking Website! This platform is designed to help users efficiently organize and manage their notes. Users can create, edit, and categorize notes for various topics, making it easier to access and reference important information.
 
 Features:
